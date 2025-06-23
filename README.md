@@ -3,19 +3,24 @@ This a web dev project with MERN stack.
 <br>
 # Web Development Project — CSE 242.3 (Section 3)
 <br>
-This is a web development project completed as part of the **CSE 242.3** course, under the guidance of **Tanvir Azhar Sir**.
+This is a web development project completed as part of the **CSE 242.3** course, under the guidance of Tanvir Azhar Sir.
 <br>
 ##👨‍💻Team Members
 <br>
 Anisur Rahman — ID: `232002712`
+<br>
 Md Abdur Noor Mehir — ID: `23200112`
+<br>
 Afrad Hasan — ID: `23200`
 <br>
 🛠️ Technologies Used
 <br>
 JavaScript
+<br>
 React.js
+<br>
 Node.js
+<br>
 MongoDB
 <br>
 📌 Project Overview
